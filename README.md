@@ -387,6 +387,12 @@ logEach( '%f', x4 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/hypergeometric`][@stdlib/random/base/hypergeometric]</span><span class="delimiter">: </span><span class="description">hypergeometric distributed pseudorandom numbers.</span>
+
 </section>
 
 <!-- /.related -->
@@ -430,8 +436,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-array-hypergeometric.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-array-hypergeometric
 
-[test-image]: https://github.com/stdlib-js/random-array-hypergeometric/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/random-array-hypergeometric/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/random-array-hypergeometric/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/random-array-hypergeometric/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-array-hypergeometric/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-array-hypergeometric?branch=main
