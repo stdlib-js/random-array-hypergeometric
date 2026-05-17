@@ -394,6 +394,7 @@ logEach( '%f', x4 );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/random-base/hypergeometric`][@stdlib/random/base/hypergeometric]</span><span class="delimiter">: </span><span class="description">hypergeometric distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-hypergeometric`][@stdlib/random/hypergeometric]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a hypergeometric distribution.</span>
 
 </section>
 
@@ -478,6 +479,12 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
+
+<!-- <related-links> -->
+
+[@stdlib/random/hypergeometric]: https://github.com/stdlib-js/random-hypergeometric
+
+<!-- </related-links> -->
 
 </section>
 
